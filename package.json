@@ -29,7 +29,7 @@
     "clsx": "^2.1.1",
     "lucide-vue-next": "^1.0.0",
     "motion-v": "^1.6.2",
-    "nuxt": "^4.4.2",
+    "nuxt": "^4.5.2",
     "reka-ui": "^2.9.6",
     "shadcn-nuxt": "2.3.3",
     "shaders": "^2.5.114",

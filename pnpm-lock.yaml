@@ -54,8 +54,8 @@ importers:
         specifier: 2.3.3
         version: 2.3.3(@emnapi/core@1.10.0)(@emnapi/runtime@1.10.0)(magicast@0.5.4)
       shaders:
-        specifier: ^2.5.114
-        version: 2.5.114(vue@3.5.41(typescript@5.9.3))
+        specifier: ^2.5.135
+        version: 2.5.135(vue@3.5.41(typescript@5.9.3))
       tailwind-merge:
         specifier: ^3.3.1
         version: 3.5.0
@@ -4760,8 +4760,9 @@ packages:
   shadcn-nuxt@2.3.3:
     resolution: {integrity: sha512-zx2mwC68aKRmPjG6iB0SFh+zguNQxLH7SXeY9xGIcmXTAz1HJhnu7gjj5/PcPbZqNm3Sbsj1F3Tvt77glfC6Pw==}
 
-  shaders@2.5.114:
-    resolution: {integrity: sha512-uM//3cJS/wBcKC0A1CDKiG1rjJy9gZrnySW17H2InOGtjIKENcKkS7S/M2g3TXNIWf2QMDbz6vYSnymFhY4osQ==}
+  shaders@2.5.135:
+    resolution: {integrity: sha512-1Fb68wq9I5yJMkpfeiestXNbb1NT0tgcXIuiQCEUzyTgNR/kVq5mzw25BmK5MTHZGjye6o5O8W9iprjPDHphwg==}
+    hasBin: true
     peerDependencies:
       pixi.js: ^8.0.0
       react: ^18.0.0 || ^19.0.0
@@ -5017,8 +5018,8 @@ packages:
   text-decoder@1.2.7:
     resolution: {integrity: sha512-vlLytXkeP4xvEq2otHeJfSQIRyWxo/oZGEbXrtEEF9Hnmrdly59sUbzZ/QgyWuLYHctCHxFF4tRQZNQ9k60ExQ==}
 
-  three@0.184.0:
-    resolution: {integrity: sha512-wtTRjG92pM5eUg/KuUnHsqSAlPM296brTOcLgMRqEeylYTh/CdtvKUvCyyCQTzFuStieWxvZb8mVTMvdPyUpxg==}
+  three@0.185.1:
+    resolution: {integrity: sha512-5aojFCXKwnjBRZvUnt3WFfEcvUJgkN5LlijRFN95hMy8WVkG4I0QNcJE+OuWvuJ0bOdStrbfXn0pkd6/QyiAlg==}
 
   tiny-invariant@1.3.3:
     resolution: {integrity: sha512-+FbBPE1o9QAYvviau/qC5SE3caw21q3xkvWKBtja5vgqOWIHHJ3ioaq1VPfn/Szqctz2bU/oYeKd9/z5BL+PVg==}
@@ -11187,9 +11188,9 @@ snapshots:
       - '@emnapi/runtime'
       - magicast
 
-  shaders@2.5.114(vue@3.5.41(typescript@5.9.3)):
+  shaders@2.5.135(vue@3.5.41(typescript@5.9.3)):
     dependencies:
-      three: 0.184.0
+      three: 0.185.1
     optionalDependencies:
       vue: 3.5.41(typescript@5.9.3)
 
@@ -11461,7 +11462,7 @@ snapshots:
     transitivePeerDependencies:
       - react-native-b4a
 
-  three@0.184.0: {}
+  three@0.185.1: {}
 
   tiny-invariant@1.3.3: {}
 

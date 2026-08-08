@@ -2,7 +2,7 @@
 
 ## Fast start
 
-- Use ~pnpm~ (repo pins ~pnpm@10.15.1~ in ~package.json~).
+- Use ~pnpm~ (repo pins ~pnpm@10.33.4~ in ~package.json~).
 - Install once: ~pnpm install~ (runs ~nuxt prepare~ via ~postinstall~ to generate ~.nuxt/~ files used by ESLint/type tooling).
 - Dev server: ~pnpm dev~.
 
@@ -10,7 +10,7 @@
 
 - Run checks in this order: ~pnpm lint~ -> ~pnpm typecheck~ -> ~pnpm build~.
 - There is no test script/workflow in this repo right now; do not invent ~pnpm test~.
-- CI uses Node 22 on Ubuntu (~.github/workflows/ci.yml~); prefer reproducing issues with Node 22 when versions matter.
+- CI uses the repository's Node version from ~.node-version~ on Ubuntu (~.github/workflows/ci.yml~); prefer reproducing issues with that version when versions matter.
 
 ## Project wiring (where edits usually belong)
 

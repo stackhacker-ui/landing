@@ -25,7 +25,7 @@
     "@nuxt/content": "^3.15.2",
     "@nuxt/icon": "^2.4.1",
     "@nuxtjs/color-mode": "^3.5.2",
-    "@tailwindcss/vite": "^4.2.1",
+    "@tailwindcss/vite": "^4.3.3",
     "@vueuse/core": "^14.3.0",
     "@vueuse/nuxt": "^13.9.0",
     "class-variance-authority": "^0.7.1",

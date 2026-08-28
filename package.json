@@ -33,7 +33,7 @@
     "lucide-vue-next": "^1.0.0",
     "motion-v": "^1.10.3",
     "nuxt": "^4.5.2",
-    "reka-ui": "^2.10.3",
+    "reka-ui": "^2.10.4",
     "shadcn-nuxt": "2.8.2",
     "shaders": "^2.5.135",
     "tailwind-merge": "^3.6.0",

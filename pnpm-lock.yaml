@@ -51,8 +51,8 @@ importers:
         specifier: ^2.11.0
         version: 2.11.0(vue@3.5.44(typescript@5.9.3))
       shadcn-nuxt:
-        specifier: 2.8.2
-        version: 2.8.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(magicast@0.5.5)
+        specifier: 2.9.0
+        version: 2.9.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(magicast@0.5.5)
       shaders:
         specifier: ^2.5.135
         version: 2.5.135(vue@3.5.44(typescript@5.9.3))
@@ -4636,8 +4636,8 @@ packages:
     engines: {node: '>= 0.10'}
     hasBin: true
 
-  shadcn-nuxt@2.8.2:
-    resolution: {integrity: sha512-MjHCs7tAO/xJDk80JUeHe2QtkOAN3a/qEK5zX4UTrZY0q1/pFglBdf88OUC+w0SNZJBIeCMjdth57ucK74hM5g==}
+  shadcn-nuxt@2.9.0:
+    resolution: {integrity: sha512-w7zKOtfF7K1phRD+MuD9VzBCX38UUCIH2q/JaS0srWDUjy7Et8S+0tBZFVIsICAT4lTabIcVPno+yExLXFQ8vQ==}
 
   shaders@2.5.135:
     resolution: {integrity: sha512-1Fb68wq9I5yJMkpfeiestXNbb1NT0tgcXIuiQCEUzyTgNR/kVq5mzw25BmK5MTHZGjye6o5O8W9iprjPDHphwg==}
@@ -11016,7 +11016,7 @@ snapshots:
       safe-buffer: 5.2.1
       to-buffer: 1.2.2
 
-  shadcn-nuxt@2.8.2(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(magicast@0.5.5):
+  shadcn-nuxt@2.9.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)(magicast@0.5.5):
     dependencies:
       '@nuxt/kit': 3.21.2(magicast@0.5.5)
       oxc-parser: 0.102.0(@emnapi/core@1.11.1)(@emnapi/runtime@1.11.1)

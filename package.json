@@ -34,7 +34,7 @@
     "motion-v": "^1.10.3",
     "nuxt": "^4.6.3",
     "reka-ui": "^2.11.0",
-    "shadcn-nuxt": "2.8.2",
+    "shadcn-nuxt": "2.9.0",
     "shaders": "^2.5.135",
     "tailwind-merge": "^3.7.0",
     "tailwindcss": "^4.3.3",
